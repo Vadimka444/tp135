@@ -21,4 +21,5 @@
 8.	Передача товара в службу доставки;
 9.	Доставка товара покупателю;
 10.	Получение товара покупателем.
-![image](https://user-images.githubusercontent.com/105587878/192944564-04921e17-3ac3-4fb0-9e4c-fad8bd49b30f.png)
+![image](https://user-images.githubusercontent.com/105587878/192945007-fc3126a8-ab6e-48ea-847c-226b22d6e193.png)
+
