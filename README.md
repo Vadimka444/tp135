@@ -45,3 +45,6 @@
    
 ![USE CASE](https://user-images.githubusercontent.com/105587878/198104475-c46c5906-6885-4038-ac40-f790ee4d14f7.png)
 
+   IDEF1X диаграмма:
+   
+![1 5](https://user-images.githubusercontent.com/105587878/198109449-bc2bd3e6-f714-450f-8b95-32d05820e148.png)
