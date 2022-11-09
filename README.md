@@ -43,9 +43,10 @@
    
   - BPMN диаграмма:
    
-![1 6](https://user-images.githubusercontent.com/105587878/200947179-f973327c-e27b-416e-920f-841aed6b5efe.png)
+![BPMN МОДЕЛЬ](https://user-images.githubusercontent.com/105587878/200947330-08c6555d-4ef2-4b1a-b86f-8742a6e49458.png)
+
 
   - IDEF1X диаграмма:
    
-![1 5](https://user-images.githubusercontent.com/105587878/198109449-bc2bd3e6-f714-450f-8b95-32d05820e148.png)
+![1 6](https://user-images.githubusercontent.com/105587878/200947179-f973327c-e27b-416e-920f-841aed6b5efe.png)
 
