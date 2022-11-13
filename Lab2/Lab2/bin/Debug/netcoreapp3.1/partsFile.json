@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Shaft",
+    "weight": 0.5,
+    "dimensions": {},
+    "material": {
+      "name": "440C",
+      "density": 7.8,
+      "cost": 8
+    }
+  },
+  {
+    "name": "Hub",
+    "weight": 0.5,
+    "dimensions": {},
+    "material": {
+      "name": "AISI321",
+      "density": 7.8,
+      "cost": 10
+    }
+  },
+  {
+    "name": "Impeller",
+    "weight": 0.5,
+    "dimensions": {},
+    "material": {
+      "name": "AISI304",
+      "density": 7.8,
+      "cost": 12
+    }
+  }
+]
